@@ -1,0 +1,23 @@
+#logo{
+    width: 250px;
+    height: auto;
+    display: flex;
+    align-items: center;
+
+}
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+form{
+    padding: 5px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    margin-left: 90px;
+    margin-right: 90px;
+
+}
+#form{
+    padding: 5px;
+}
